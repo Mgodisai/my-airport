@@ -1,0 +1,4 @@
+airport:
+  discount:
+    def:
+      percent: 10
